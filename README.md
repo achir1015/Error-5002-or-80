@@ -1,6 +1,7 @@
 # Error-5002-or-80
 <img width="1568" height="672" alt="image" src="https://github.com/user-attachments/assets/5777b9fd-d72d-46ca-819b-1781db176380" />
 <img width="1568" height="620" alt="image" src="https://github.com/user-attachments/assets/4b0b4107-048a-4f93-9ac7-889e41ac61da" />
+<img width="1739" height="888" alt="image" src="https://github.com/user-attachments/assets/10320feb-c088-4d2c-91d7-bd89d9641a79" />
 
 背景守護腳本，自動偵測並修復 Flask + ngrok 斷線問題。
 使用方式
